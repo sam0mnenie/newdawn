@@ -1,0 +1,15 @@
+D:\geroin\examples22\bin\Debug\net6.0\examples22.exe
+D:\geroin\examples22\bin\Debug\net6.0\examples22.deps.json
+D:\geroin\examples22\bin\Debug\net6.0\examples22.runtimeconfig.json
+D:\geroin\examples22\bin\Debug\net6.0\examples22.dll
+D:\geroin\examples22\bin\Debug\net6.0\examples22.pdb
+D:\geroin\examples22\obj\Debug\net6.0\examples22.csproj.AssemblyReference.cache
+D:\geroin\examples22\obj\Debug\net6.0\examples22.GeneratedMSBuildEditorConfig.editorconfig
+D:\geroin\examples22\obj\Debug\net6.0\examples22.AssemblyInfoInputs.cache
+D:\geroin\examples22\obj\Debug\net6.0\examples22.AssemblyInfo.cs
+D:\geroin\examples22\obj\Debug\net6.0\examples22.csproj.CoreCompileInputs.cache
+D:\geroin\examples22\obj\Debug\net6.0\examples22.dll
+D:\geroin\examples22\obj\Debug\net6.0\refint\examples22.dll
+D:\geroin\examples22\obj\Debug\net6.0\examples22.pdb
+D:\geroin\examples22\obj\Debug\net6.0\examples22.genruntimeconfig.cache
+D:\geroin\examples22\obj\Debug\net6.0\ref\examples22.dll
