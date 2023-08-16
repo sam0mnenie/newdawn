@@ -1,0 +1,15 @@
+D:\geroin\example0033\obj\Debug\net6.0\example0033.csproj.AssemblyReference.cache
+D:\geroin\example0033\obj\Debug\net6.0\example0033.GeneratedMSBuildEditorConfig.editorconfig
+D:\geroin\example0033\obj\Debug\net6.0\example0033.AssemblyInfoInputs.cache
+D:\geroin\example0033\obj\Debug\net6.0\example0033.AssemblyInfo.cs
+D:\geroin\example0033\obj\Debug\net6.0\example0033.csproj.CoreCompileInputs.cache
+D:\geroin\example0033\bin\Debug\net6.0\example0033.exe
+D:\geroin\example0033\bin\Debug\net6.0\example0033.deps.json
+D:\geroin\example0033\bin\Debug\net6.0\example0033.runtimeconfig.json
+D:\geroin\example0033\bin\Debug\net6.0\example0033.dll
+D:\geroin\example0033\bin\Debug\net6.0\example0033.pdb
+D:\geroin\example0033\obj\Debug\net6.0\example0033.dll
+D:\geroin\example0033\obj\Debug\net6.0\refint\example0033.dll
+D:\geroin\example0033\obj\Debug\net6.0\example0033.pdb
+D:\geroin\example0033\obj\Debug\net6.0\example0033.genruntimeconfig.cache
+D:\geroin\example0033\obj\Debug\net6.0\ref\example0033.dll
